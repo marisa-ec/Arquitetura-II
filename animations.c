@@ -3,7 +3,6 @@
 #include <stdio.h> 
 #include <stdlib.h>
 
-
 void *preencher_matriz(char *animation, int animacao[][16][10]);
 
 
